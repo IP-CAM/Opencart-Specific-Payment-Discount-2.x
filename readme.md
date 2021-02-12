@@ -1,4 +1,4 @@
-# Opencart Specific Payment Discount 2.x
+# Opencart Specific Payment Discount
 
 Choose specific payment method that you want to make discount to users if they select it.
 Good solution if you want to promote payment methods.
